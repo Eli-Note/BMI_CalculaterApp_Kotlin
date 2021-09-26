@@ -1,0 +1,12 @@
+<resources>
+    <!-- mainActivity -->
+    <string name="app_name">BMI_Calculater</string>
+    <string name="physical">신장</string>
+    <string name="physical_hint">키를 입력해 주시기 바랍니다. (단위 : cm)</string>
+    <string name="weight">몸무게</string>
+    <string name="weight_hint">몸무게를 입력해 주시기 바랍니다. (단위 : kg)</string>
+    <string name="btn_check">확인하기</string>
+    <!-- subActivity -->
+    <string name="resultBMI">BMI 수치: </string>
+    <string name="resultString">결과: </string>
+</resources>
