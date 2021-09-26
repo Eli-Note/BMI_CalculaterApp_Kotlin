@@ -29,7 +29,7 @@ class SubActivity : AppCompatActivity() {
 
         result = when {
 
-            bmi >= 35.0 -> "고도 비만
+            bmi >= 35.0 -> "고도 비만"
 
             bmi >= 30.0 -> "경도 비만"
 
